@@ -3,7 +3,7 @@
 
 ## Description
 
-The Professional README Generator is a command-line application that allows users to quickly and easily generate a professional README file for their projects. It uses the user's input to dynamically generate a comprehensive README that includes the project's title, description, installation instructions, usage information, contribution guidelines, test instructions, license, and contact information.
+The Professional README Generator is a command-line application that allows users to quickly and easily generate a professional README file for their projects. It uses the user's input to dynamically generate a comprehensive README that includes the project's title, description, installation instructions, usage information, contribution guidelines, test instructions, license, and contact information. There is a sample image of a generated README in the assets folder.
 
 ## Table of Contents
 
