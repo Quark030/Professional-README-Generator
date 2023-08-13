@@ -1,4 +1,4 @@
-// Function to generate the content for the README file based on user input
+// Function to generate the content for the README file based on user input.
 function generateMarkdown(data) {
   return `
 # ${data.Project}
